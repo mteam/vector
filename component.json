@@ -1,0 +1,8 @@
+{
+  "name": "vector",
+  "repo": "mteam/vector",
+  "version": "0.1.0",
+  "scripts": [
+    "index.js"
+  ]
+}
